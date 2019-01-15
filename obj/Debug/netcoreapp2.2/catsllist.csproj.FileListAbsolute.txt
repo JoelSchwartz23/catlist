@@ -1,0 +1,14 @@
+C:\Users\neder\source\codeworks\catsllist\bin\Debug\netcoreapp2.2\catsllist.deps.json
+C:\Users\neder\source\codeworks\catsllist\bin\Debug\netcoreapp2.2\catsllist.runtimeconfig.json
+C:\Users\neder\source\codeworks\catsllist\bin\Debug\netcoreapp2.2\catsllist.runtimeconfig.dev.json
+C:\Users\neder\source\codeworks\catsllist\bin\Debug\netcoreapp2.2\catsllist.dll
+C:\Users\neder\source\codeworks\catsllist\bin\Debug\netcoreapp2.2\catsllist.pdb
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.csprojAssemblyReference.cache
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.csproj.CoreCompileInputs.cache
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.RazorAssemblyInfo.cache
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.RazorAssemblyInfo.cs
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.AssemblyInfoInputs.cache
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.AssemblyInfo.cs
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.RazorTargetAssemblyInfo.cache
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.dll
+C:\Users\neder\source\codeworks\catsllist\obj\Debug\netcoreapp2.2\catsllist.pdb
